@@ -1,4 +1,6 @@
 Welcome to devops
 thisis my conflict file to see confiled and i have edited branch dev
 
-hdoasjdlasbskc;2
+hdoasjdlasbskc;
+
+edited by branch ) modified same line2

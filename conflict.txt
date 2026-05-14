@@ -3,4 +3,8 @@ thisis my conflict file to see confiled and i have edited branch dev
 
 hdoasjdlasbskc;
 
+<<<<<<< HEAD
 ashsdfsdk2
+=======
+edited by branch ) modified same line2
+>>>>>>> dev1

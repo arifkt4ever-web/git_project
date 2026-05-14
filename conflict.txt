@@ -1,2 +1,4 @@
 Welcome to devops
-thisis my conflict file to see confiled and i have edited branch dev2
+thisis my conflict file to see confiled and i have edited branch dev
+
+hdoasjdlasbskc;2
